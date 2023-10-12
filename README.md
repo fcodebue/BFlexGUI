@@ -1,4 +1,4 @@
-# CastorGUI V1.2
+# BFlexGUI V1.2
 
 Library to display a GUI game as a layer on top of the canvas HTML/CSS. This library has been created for [CastorEngine](http://www.castorengine.com/), the editor of game and as extention for [BabylonJS](http://www.babylonjs.com/), the game engine 3d.
 
